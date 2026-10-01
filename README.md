@@ -121,6 +121,13 @@ GitHub: [@ozameet346-dot](https://github.com/ozameet346-dot)
 * **GitHub Repository:** https://github.com/ozameet346-dot/My-GDB-Project
 * **Live OnlineGDB Project:** https://onlinegdb.com/XBVO7qyYi
 
+** Here is the screen-shot :
+<img width="922" height="927" alt="Screenshot 2026-10-01 182657" src="https://github.com/user-attachments/assets/e592e855-d8e3-4de4-b909-925575a45d72" />
+
+
+
+
+
 ---
 
 ⭐ **If you find this project useful, feel free to explore the repository!**
